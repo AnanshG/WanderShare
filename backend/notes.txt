@@ -1,0 +1,8 @@
+modules used in backend
+
+express
+bodyparser
+nodemon
+validator
+
+multer 
